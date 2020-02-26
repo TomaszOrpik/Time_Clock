@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0067: Likwiduj obiekty przed utratą zakresu
+dotnet_diagnostic.IDE0067.severity = warning
